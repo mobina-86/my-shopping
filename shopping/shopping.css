@@ -1,0 +1,54 @@
+.bg-back {
+  background-image: url("img/8p.jpg");
+  background-size: 1467px 385px;
+}
+
+.img-forosh {
+  width: 250px;
+  height: 333px
+}
+
+.logo-vesta {
+  width: 102px;
+  height: 31px;
+}
+
+.img {
+  width: 570px;
+  height: 570px
+}
+
+.bg-back2 {
+
+  background-image: url("img/9p.jpg");
+  background-size: 1468px 750px;
+}
+
+.image-card {
+  width: 300px;
+  height: 190px
+}
+
+
+.bg-back1 {
+  background-image: url("img/6p.jpg");
+  border-radius: 1000px;
+  background-size: cover;
+}
+
+.logo {
+  width: auto;
+  height: auto;
+}
+@font-face {
+  font-family: 'IRANSansWeb !important';
+  src: url("font/IRANSansWeb.eot") format('eot'),
+  url("font/IRANSansWeb.woff") format('woff'),
+  url("font/IRANSansWeb.ttf") format('truetype');
+  src: url("font/IRANSansWeb(FaNum).eot") format('eot'),
+  url("font/IRANSansWeb(FaNum).woff") format('woff'),
+  url("font/IRANSansWeb(FaNum).ttf") format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+body,a,input,button,h1,h2,h3,h4,h5,h6{font-family:'IRANSansWeb !important'}
