@@ -1,6 +1,7 @@
 .bg-back {
   background-image: url("img/18p.png");
-  background-size: cover;
+  background-size: 100% 385px;
+
 }
 
 .img-forosh {
@@ -21,7 +22,8 @@
 .bg-back2 {
 
   background-image: url("img/17p.png");
-  background-size: cover;
+  background-size: 100% 750px;
+
 }
 
 .image-card {
@@ -42,12 +44,12 @@
 }
 @font-face {
   font-family: 'IRANSansWeb !important';
-  src: url("./font/IRANSansWeb.eot") format('eot'),
-  url("./font/IRANSansWeb.woff") format('woff'),
-  url("./font/IRANSansWeb.ttf") format('truetype');
-  src: url("./font/IRANSansWeb(FaNum).eot") format('eot'),
-  url("./font/IRANSansWeb(FaNum).woff") format('woff'),
-  url("./font/IRANSansWeb(FaNum).ttf") format('truetype');
+  src: url("font/IRANSansWeb.eot") format('eot'),
+  url("font/IRANSansWeb.woff") format('woff'),
+  url("font/IRANSansWeb.ttf") format('truetype');
+  src: url("font/IRANSansWeb(FaNum).eot") format('eot'),
+  url("font/IRANSansWeb(FaNum).woff") format('woff'),
+  url("font/IRANSansWeb(FaNum).ttf") format('truetype');
   font-weight: normal;
   font-style: normal;
 }
